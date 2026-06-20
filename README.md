@@ -61,9 +61,13 @@ Then start with the **[Quantum AI Basics](Quantum%20AI%20Basics/README.md)** mod
 
 A guided, hands-on introduction. Work through the notebooks in order:
 
+0. **[Subatomic Particles — Explained in Depth](Quantum%20AI%20Basics/00_Subatomic_Particles_Explained.ipynb)** — what matter is made of, and why particles behave quantumly.
 1. **[Introduction to Quantum Computing](Quantum%20AI%20Basics/01_Introduction_to_Quantum_Computing.ipynb)** — qubits, superposition, measurement, entanglement.
 2. **[Quantum Gates and Circuits](Quantum%20AI%20Basics/02_Quantum_Gates_and_Circuits.ipynb)** — the gate set and building circuits.
 3. **[Quantum Machine Learning Basics](Quantum%20AI%20Basics/03_Quantum_Machine_Learning_Basics.ipynb)** — train a variational quantum classifier.
+4. **[Machine Learning & AI Foundations](Quantum%20AI%20Basics/04_Classical_ML_and_AI_Foundations.ipynb)** — classical ML/AI and how it maps onto QML.
+5. **[Quantum Hardware & Chip Breakthroughs](Quantum%20AI%20Basics/05_Quantum_Hardware_and_Chip_Breakthroughs.ipynb)** — real machines & the latest news (Google Willow, Microsoft Majorana, IBM).
+6. **[The Future of Quantum AI](Quantum%20AI%20Basics/06_The_Future_of_Quantum_AI.ipynb)** — roadmaps, use cases, and how the field will develop.
 
 ## Project Structure
 
@@ -73,9 +77,13 @@ Quantum AI/
 ├── requirements.txt          # Python dependencies
 ├── Quantum AI Basics/        # Beginner notebooks (start here)
 │   ├── README.md
+│   ├── 00_Subatomic_Particles_Explained.ipynb
 │   ├── 01_Introduction_to_Quantum_Computing.ipynb
 │   ├── 02_Quantum_Gates_and_Circuits.ipynb
-│   └── 03_Quantum_Machine_Learning_Basics.ipynb
+│   ├── 03_Quantum_Machine_Learning_Basics.ipynb
+│   ├── 04_Classical_ML_and_AI_Foundations.ipynb
+│   ├── 05_Quantum_Hardware_and_Chip_Breakthroughs.ipynb
+│   └── 06_The_Future_of_Quantum_AI.ipynb
 └── venv/                     # Virtual environment (git-ignored)
 ```
 
