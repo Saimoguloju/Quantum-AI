@@ -1,1 +1,17 @@
+# Core quantum computing (notebooks 01 & 02)
+qiskit
+qiskit-aer
+pylatexenc        # required for circuit.draw("mpl")
+
+# Quantum machine learning (notebook 03)
+pennylane
+
+# Scientific / plotting / data
+numpy
+matplotlib
+scikit-learn
+
+# Jupyter (to run the .ipynb notebooks)
+jupyter
+notebook
 ipykernel
