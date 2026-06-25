@@ -13,6 +13,7 @@ A hands-on, beginner-friendly introduction to quantum computing and quantum mach
 | 04 | [Machine Learning & AI Foundations](04_Classical_ML_and_AI_Foundations.ipynb) | Classical ML/AI: supervised learning, neural nets, gradient descent — and how they map to QML |
 | 05 | [Quantum Hardware & Chip Breakthroughs](05_Quantum_Hardware_and_Chip_Breakthroughs.ipynb) | Real machines & 2024–2026 news: Google Willow, Microsoft Majorana 1/2, IBM's roadmap |
 | 06 | [The Future of Quantum AI](06_The_Future_of_Quantum_AI.ipynb) | How the field will develop: timelines, use cases, barren plateaus, AI⇄quantum co-evolution |
+| 07 | [Quantum Algorithms In-Depth](07_Quantum_Algorithms_In_Depth.ipynb) | Complexity classes (BQP), the QFT, phase estimation, Shor & Grover (runnable), VQE/QAOA, and error correction (surface vs. qLDPC) |
 
 Work through them in order — each builds on the previous one.
 
@@ -34,7 +35,7 @@ Then open the `Quantum AI Basics` folder and start with notebook 00.
 
 ## Libraries used
 
-- **[Qiskit](https://github.com/Qiskit/qiskit)** — IBM's quantum computing SDK (notebooks 01 & 02)
+- **[Qiskit](https://github.com/Qiskit/qiskit)** — IBM's quantum computing SDK (notebooks 01, 02 & 07)
 - **[PennyLane](https://pennylane.ai/)** — differentiable quantum programming for QML (notebook 03)
 - **scikit-learn** — classical machine learning (notebook 04)
 - NumPy & Matplotlib — data and plotting throughout

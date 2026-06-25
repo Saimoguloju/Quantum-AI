@@ -68,6 +68,7 @@ A guided, hands-on introduction. Work through the notebooks in order:
 4. **[Machine Learning & AI Foundations](Quantum%20AI%20Basics/04_Classical_ML_and_AI_Foundations.ipynb)** — classical ML/AI and how it maps onto QML.
 5. **[Quantum Hardware & Chip Breakthroughs](Quantum%20AI%20Basics/05_Quantum_Hardware_and_Chip_Breakthroughs.ipynb)** — real machines & the latest news (Google Willow, Microsoft Majorana, IBM).
 6. **[The Future of Quantum AI](Quantum%20AI%20Basics/06_The_Future_of_Quantum_AI.ipynb)** — roadmaps, use cases, and how the field will develop.
+7. **[Quantum Algorithms In-Depth](Quantum%20AI%20Basics/07_Quantum_Algorithms_In_Depth.ipynb)** — Shor, Grover (runnable), QFT/QPE, VQE/QAOA, complexity classes (BQP), and error correction (surface vs. qLDPC).
 
 ## Project Structure
 
@@ -83,7 +84,8 @@ Quantum AI/
 │   ├── 03_Quantum_Machine_Learning_Basics.ipynb
 │   ├── 04_Classical_ML_and_AI_Foundations.ipynb
 │   ├── 05_Quantum_Hardware_and_Chip_Breakthroughs.ipynb
-│   └── 06_The_Future_of_Quantum_AI.ipynb
+│   ├── 06_The_Future_of_Quantum_AI.ipynb
+│   └── 07_Quantum_Algorithms_In_Depth.ipynb
 └── venv/                     # Virtual environment (git-ignored)
 ```
 
